@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block body %}
+
+<div class="container">
+
+    <h2 class="my-3">{{events.event_title}}</h2>
+    <div class="row mb-3">
+        {{events.location}}<br class="mb-3">
+        {{events.time}}<br class="mb-3">
+        {{events.description}}
+    </div>
+    <button type="button" class="btn btn-primary my-4 ">Register for this event</button>
+</div>
+
+{% endblock body %}
