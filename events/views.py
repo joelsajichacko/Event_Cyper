@@ -11,15 +11,12 @@ def home(request):
 def events(request):
     events= Events.objects.all()
     context = {'events': events}
-    return render(request, "events.html", context)
+    return render(request, "eventss.html", context)
 
 
 def contact(request):
     return render(request, "contact.html")
 
-
-def signup(request):
-    return render(request, "signup.html")
 
 
 def eventpost(request, slug):

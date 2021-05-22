@@ -16,12 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from events import views
+from users import views as signup_views
 
 urlpatterns = [
     path('', views.home, name='home'),
     path('events/', views.events, name='events'),
     path('contact/', views.contact, name='contact'),
-    path('signup/', views.signup, name='signup'),
+    path('signup/', signup_views.signup, name='signup'),
     path('eventpost/<str:slug>', views.eventpost, name='eventpost'),
     path('login/', views.login, name='login'),
     path('create_event/', views.create_event, name='create_event'),
