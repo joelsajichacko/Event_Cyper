@@ -4,7 +4,9 @@
 
 <div class="container">
     <h3 class="my-3"> Browse the events </h3>
-    <button type="button" class="btn btn-dark">Create a new event</button>
+        <form class="d-flex" action="/create_event">
+        <button class="btn btn-dark" type="submit" >Create New Event</button>
+     </form>
     <div class="row">
         {% for events in events %}
         <div class="col">

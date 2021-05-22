@@ -30,3 +30,7 @@ def eventpost(request, slug):
 
 def login(request):
     return render(request, "login.html")
+
+
+def create_event(request):
+    return render(request, "create_event.html")

@@ -24,4 +24,5 @@ urlpatterns = [
     path('signup/', views.signup, name='signup'),
     path('eventpost/<str:slug>', views.eventpost, name='eventpost'),
     path('login/', views.login, name='login'),
+    path('create_event/', views.create_event, name='create_event'),
 ]
