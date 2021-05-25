@@ -16,7 +16,7 @@ BFH/recp8yOn3f0gykbyD/2021
 2. login/Register to view your profile
 3. Create events - To create new events
 4. Can View the different events avilable and register.
-## Libraries used
+## Tools used
 1. Pycharm - PyCharm Community Edition 2021.1.1 x64
 2. Django - Django 1.11 LTS
 3. Python - Python 3.9
