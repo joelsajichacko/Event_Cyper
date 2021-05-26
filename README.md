@@ -25,6 +25,17 @@ This project can be of great use for the several colleges as it saves the time a
 2. login/Register to view your profile
 3. To create new events -`Create events` 
 4. Can View the different upcoming events and can register to those events.
+## Frameworks and libraries used
+- *asgiref==3.3.4*
+- *dj-database-url==0.5.0*
+- *Django==3.2.3*
+- *django-heroku==0.3.1*
+- *gunicorn==20.1.0*
+- *psycopg2==2.8.6*
+- *pytz==2021.1*
+- *sqlparse==0.4.1*
+- *whitenoise==5.2.0*
+
 ## Tools used
 1. **Pycharm** - PyCharm Community Edition 2021.1.1 x64
 2. **Django** - Django 1.11 LTS
