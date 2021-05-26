@@ -21,7 +21,7 @@ This project can be of great use for the several colleges as it saves the time a
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. Open the [home page]() where all the available options can be viewed 
+1. Open the [home page](https://event-cyper.herokuapp.com/) where all the available options can be viewed 
 2. login/Register to view your profile
 3. To create new events -`Create events` 
 4. Can View the different upcoming events and can register to those events.
