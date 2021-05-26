@@ -3,6 +3,14 @@
 Event Cyper is a website that can be used by a school/collge where the students can register themselves by creating a unique account and and they can register for the various events available. As a students logins to their account they will be able to see thier past attendance for the registered events.The studnets can also use this platform to create new events by providing all the required information like date,time,venue and many more. They can also set criteria like maximum participants allowed.
 
 This project can be of great use for the several colleges as it saves the time and effort of organising an event. It also helps the studnets to keep track of their events and related informations.
+Features:
+* Register an account
+* Login to your account
+* view and register for events
+* Create new events
+* Track the attendance for the registered events 
+* Reset password
+* Logout
 ## Team members
 1. Joel Saji Chacko [https://github.com/joelsajichacko]
 2. Christina Antony [https://github.com/tinaelsaantony]
