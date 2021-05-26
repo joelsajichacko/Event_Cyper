@@ -21,7 +21,7 @@ BFH/recp8yOn3f0gykbyD/2021
 2. Django - Django 1.11 LTS
 3. Python - Python 3.9
 4. sqllite - sqllite version 3
-5.Html,Css and Javascript 
+5. Html,Css and Javascript 
 ## How to configure
 1. Intall latest version of Pycharm
 2. pip install Django
