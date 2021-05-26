@@ -18,7 +18,6 @@ def contact(request):
     return render(request, "contact.html")
 
 
-
 def eventpost(request, slug):
     events = Events.objects.filter(slug=slug).first()
     context = {'events': events}
