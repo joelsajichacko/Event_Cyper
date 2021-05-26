@@ -19,7 +19,7 @@ This project can be of great use for the several colleges as it saves the time a
 ## Team Id
 ***BFH/recp8yOn3f0gykbyD/2021***
 ## Link to product walkthrough
-[link to video]
+[Event_Cyper](https://drive.google.com/file/d/1omK8rO9iepP7eLhh766g0Jynu9JGsdNc/view?usp=drivesdk)
 ## How it Works ?
 1. Open the [home page](https://event-cyper.herokuapp.com/) where all the available options can be viewed 
 2. login/Register to view your profile
